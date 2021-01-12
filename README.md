@@ -1,1 +1,3 @@
-# BlankOrNot-Image-detection_Java
+# BlankOrNot-Image-detection
+
+Progamming language : Java 
